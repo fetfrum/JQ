@@ -1,0 +1,13 @@
+*{
+	font-size: 16px;
+	padding: 10px;
+}
+
+.acc-head{
+	background: orange;
+}
+
+.acc-body{
+	background-color: silver;
+	display: none;
+}
